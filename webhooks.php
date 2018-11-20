@@ -1,9 +1,4 @@
-<?php // callback.php
-
-require "vendor/autoload.php";
-require_once('vendor/linecorp/line-bot-sdk/line-bot-sdk-tiny/LINEBotTiny.php');
-
-
+<?php
  
 $strAccessToken = "/MdUkCJcM55pyBImBZpmDZqBfE9f0zWAuXtcKmyHX7rcQ7jpy/IOMH3wJUQx2cM0r/fWNTNOtmvHEMqlu781yNTfdigBXmXstIm480FC2kJVQU23H68T1PK/9U5mI3kkIwtJLoXiISkO2/DSCsoXsgdB04t89/1O/w1cDnyilFU=";
  
